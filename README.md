@@ -8,7 +8,7 @@ Front-end engineer in San Diego, US.
 
 -----
 - 🔭 Currently working for Ukraine Global Taskforce as a frontend developer volunteer 
-- 🚀 Have a passion for Education / Tech for social impact. 
+- 🚀 Have a passion for Tech for social impact. 
 - 👨‍💻 Fell in love with React + Typescipt and CSS magic
 - ⚡️ A huge fan of Lego. 
 
