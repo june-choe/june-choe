@@ -2,7 +2,6 @@
 Front-end engineer in San Diego, US. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-junechoe-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junechoe/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@sevenpencils-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sevenpencils "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-jueunchoe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jueunchoe@gmail.com "Connect via Email")
 
 
