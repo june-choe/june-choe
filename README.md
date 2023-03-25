@@ -1,8 +1,7 @@
 ### Hi, I'm June <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Front-end engineer in San Diego, US. 
+Jr. Full Stack engineer in San Diego, US. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-junechoe-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junechoe/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-jueunchoe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jueunchoe@gmail.com "Connect via Email")
 
 
 -----
