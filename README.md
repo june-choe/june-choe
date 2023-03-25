@@ -6,7 +6,8 @@ Front-end engineer in San Diego, US.
 
 
 -----
-- 🔭 Currently working for Ukraine Global Taskforce as a frontend developer volunteer 
+- 🔭 Currently working as a Jr. full stack developer
+- 🌱 Worked for Ukraine Global Taskforce as a frontend developer volunteer 
 - 🚀 Have a passion for Tech for social impact. 
 - 👨‍💻 Fell in love with React + Typescipt and CSS magic
 - ⚡️ A huge fan of Lego. 
@@ -20,5 +21,4 @@ Front-end engineer in San Diego, US.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+
