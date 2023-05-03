@@ -1,11 +1,11 @@
 ### Hi, I'm June <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Jr. Full Stack engineer in San Diego, US. 
+Full Stack engineer in San Diego, US. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-junechoe-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junechoe/ "Connect on LinkedIn")
 
 
 -----
-- 🔭 Currently working as a Jr. full stack developer
+- 🔭 Currently working as a full stack developer at Wildseed
 - 🌱 Worked for Ukraine Global Taskforce as a frontend developer volunteer 
 - 🚀 Have a passion for Tech for social impact. 
 - 👨‍💻 Fell in love with React + Typescipt and CSS magic
